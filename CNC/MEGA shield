@@ -1,0 +1,303 @@
+Netlist
+
+Exported from Arduino MEGA blank shield_02_2gnd_vcc_switch.brd at 1/14/15 12:38 PM
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Net      Part     Pad
+
++3V3     POWER    2
+
++5V      POWER    3
+
+ADC0     ADCL     1
+         ADCL1    1
+
+ADC1     ADCL     2
+         ADCL1    2
+
+ADC2     ADCL     3
+         ADCL1    3
+
+ADC3     ADCL     4
+         ADCL1    4
+
+ADC4     ADCL     5
+         ADCL1    5
+
+ADC5     ADCL     6
+         ADCL1    6
+
+ADC6     ADCL     7
+         ADCL1    7
+
+ADC7     ADCL     8
+         ADCL1    8
+
+ADC8     ADCH     1
+         ADCH1    1
+
+ADC9     ADCH     2
+         ADCH1    2
+
+ADC10    ADCH     3
+         ADCH1    3
+
+ADC11    ADCH     4
+         ADCH1    4
+
+ADC12    ADCH     5
+         ADCH1    5
+
+ADC13    ADCH     6
+         ADCH1    6
+
+ADC14    ADCH     7
+         ADCH1    7
+
+ADC15    ADCH     8
+         ADCH1    8
+
+AREF     PWMH     8
+         PWMH1    8
+
+GND      PWMH     7
+         PWMH1    7
+
+N$1      EN1_500C 1
+         SW_BLUE  1
+
+N$2      EN2_500C 1
+         SW_RED   1
+
+N$3      GND1     1
+         GND1     2
+         GND1     3
+         GND1     4
+         GND1     5
+         GND1     6
+         GND1     7
+         GND1     8
+         GND2     1
+         GND2     2
+         GND2     3
+         GND2     4
+         GND2     5
+         GND2     6
+         GND2     7
+         GND2     8
+         GND3     1
+         GND3     2
+         GND3     3
+         GND3     4
+         GND3     5
+         GND3     6
+         GND3     7
+         GND3     8
+         GND4     1
+         GND4     2
+         GND4     3
+         GND4     4
+         GND4     5
+         GND4     6
+         GND4     7
+         GND4     8
+
+N$4      PWR1_01  1
+         PWR1_01  2
+         PWR1_01  3
+         PWR1_01  4
+         PWR1_01  5
+         PWR1_01  6
+         PWR1_01  7
+         PWR1_01  8
+         PWR1_02  1
+         PWR1_02  2
+         PWR1_02  3
+         PWR1_02  4
+         PWR1_02  5
+         PWR1_02  6
+         PWR1_02  7
+         PWR1_02  8
+         PWR1_03  1
+         PWR1_03  2
+         PWR1_03  3
+         PWR1_03  4
+         PWR1_03  5
+         PWR1_03  6
+         PWR1_03  7
+         PWR1_03  8
+         PWR1_04  1
+         PWR1_04  2
+         PWR1_04  3
+         PWR1_04  4
+         PWR1_04  5
+         PWR1_04  6
+         PWR1_04  7
+         PWR1_04  8
+
+N$9      PWR2_01  1
+         PWR2_01  2
+         PWR2_01  3
+         PWR2_01  4
+         PWR2_01  5
+         PWR2_01  6
+         PWR2_01  7
+         PWR2_01  8
+         PWR2_02  1
+         PWR2_02  2
+         PWR2_02  3
+         PWR2_02  4
+         PWR2_02  5
+         PWR2_02  6
+         PWR2_02  7
+         PWR2_02  8
+         PWR2_03  1
+         PWR2_03  2
+         PWR2_03  3
+         PWR2_03  4
+         PWR2_03  5
+         PWR2_03  6
+         PWR2_03  7
+         PWR2_03  8
+         PWR2_04  1
+         PWR2_04  2
+         PWR2_04  3
+         PWR2_04  4
+         PWR2_04  5
+         PWR2_04  6
+         PWR2_04  7
+         PWR2_04  8
+
+PA0      JP1      16
+
+PA1      JP1      15
+
+PA2      JP1      14
+
+PA3      JP1      13
+
+PA4      JP1      12
+
+PA5      JP1      11
+
+PA6      JP1      10
+
+PA7      JP1      9
+
+PB0      JP2      1
+
+PB1      JP2      2
+
+PB2      JP2      3
+
+PB3      JP2      4
+
+PB4      PWMH     3
+         PWMH1    3
+
+PB5      PWMH     4
+         PWMH1    4
+
+PB6      PWMH     5
+         PWMH1    5
+
+PB7      PWMH     6
+         PWMH1    6
+
+PC0      JP1      1
+
+PC1      JP1      2
+
+PC2      JP1      3
+
+PC3      JP1      4
+
+PC4      JP1      5
+
+PC5      JP1      6
+
+PC6      JP1      7
+
+PC7      JP1      8
+
+PD7      JP2      16
+
+PE0      PWML     1
+         PWML1    1
+
+PE1      PWML     2
+         PWML1    2
+
+PE3      PWML     6
+         PWML1    6
+
+PE4      PWML     3
+         PWML1    3
+
+PE5      PWML     4
+         PWML1    4
+
+PG0      JP2      13
+
+PG1      JP2      14
+
+PG2      JP2      15
+
+PG5      PWML     5
+         PWML1    5
+
+PH3      PWML     7
+         PWML1    7
+
+PH4      PWML     8
+         PWML1    8
+
+PH5      PWMH     1
+         PWMH1    1
+
+PH6      PWMH     2
+         PWMH1    2
+
+PL0      JP2      5
+
+PL1      JP2      6
+
+PL2      JP2      7
+
+PL3      JP2      8
+
+PL4      JP2      9
+
+PL5      JP2      10
+
+PL6      JP2      11
+
+PL7      JP2      12
+
+RESET    POWER    1
+
+RXD1     COMMUNICATION 3
+         COMMUNICATION1 3
+
+RXD2     COMMUNICATION 5
+         COMMUNICATION1 5
+
+RXD3     COMMUNICATION 7
+         COMMUNICATION1 7
+
+SCL      COMMUNICATION 1
+         COMMUNICATION1 1
+
+SDA      COMMUNICATION 2
+         COMMUNICATION1 2
+
+TXD1     COMMUNICATION 4
+         COMMUNICATION1 4
+
+TXD2     COMMUNICATION 6
+         COMMUNICATION1 6
+
+TXD3     COMMUNICATION 8
+         COMMUNICATION1 8
+
